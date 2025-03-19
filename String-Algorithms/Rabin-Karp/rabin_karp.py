@@ -1,2 +1,3 @@
-def rabin_karp():
+def rabin_karp(text, pattern):
+    
     return
